@@ -1,0 +1,21 @@
+Sum of is_canceled,,,
+44224,,,
+,,,
+,,,
+Sum of previous_bookings_not_canceled,Sum of booking_changes,,
+16368,26400,,
+,,,
+,,,
+Row Labels,Sum of is_canceled,,
+City Hotel,33102,,
+Resort Hotel,11122,,
+Grand Total,44224,,
+,,,
+,,,
+,,,
+Row Labels,Sum of is_canceled,Sum of booking_changes,Sum of previous_bookings_not_canceled
+2014,181,0,0
+2015,11467,3845,916
+2016,21428,13022,8477
+2017,11148,9533,6975
+Grand Total,44224,26400,16368
