@@ -7,12 +7,20 @@
 
 ![Excel dashboard](<./Diwali_sales Dashboard.png>)
 
+ ## Excel Tools Used
+ 1. Vlookup
+ 2. Sumifs
+ 3. pivot table
+ 4. conditional formatting
+ 5. Sort & filter
+ 7. Hlookup 
+
 
 ## Tools Used
 For the data cleaning project, the following tools and libraries were used:
 
-1. **Python**  for data cleaning tasks.
-2. **Pandas** was instrumental in data manipulation, cleaning and handling missing values.
+1. **Python**  
+2. **Pandas** for data cleaning was instrumental in data manipulation, cleaning and handling missing values.
 3. **NumPy**  was utilized for mathematical operations and array handling during the cleaning process.
 4. **Jupyter Notebooks**  provided an interactive environment for code development, exploration and documentation.
 ## Conclusion:
