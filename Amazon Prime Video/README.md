@@ -42,6 +42,7 @@ Top Contributors: Identification of top directors, cast members, and other key c
 
 ## Dashboard
  - Powerbi
- - Tableau
- - Streamlit
+ - Tableau![[](https://public.tableau.com/views/AmazonPrime_17332857614260/AmazonPrime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](./Amazon%20Prime.png)
+
+ - Streamlit 
  
