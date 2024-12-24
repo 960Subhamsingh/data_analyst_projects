@@ -36,3 +36,5 @@ There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movi
 + Years : year of release
 
 + Numerical Variable: Released_Year, Runtime, IMDB_Rating, Meta_score, No_of_Votes
+
+
